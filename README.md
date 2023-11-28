@@ -15,6 +15,7 @@ This is a solution to the [Clipboard landing page challenge on Frontend Mentor](
 
 - Semantic HTML5 markup
 - [tailwindcss](https://tailwindcss.com/) - tailwindcss
+- Mobile-first workflow
 
 ## Author
 
