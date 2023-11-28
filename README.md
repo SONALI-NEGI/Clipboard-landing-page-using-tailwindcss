@@ -8,14 +8,13 @@ This is a solution to the [Clipboard landing page challenge on Frontend Mentor](
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [live page](https://sonali-negi.github.io/Clipboard-landing-page-using-tailwindcss/)
+- Solution URL: [GitHub repository Url ](https://github.com/SONALI-NEGI/Clipboard-landing-page-using-tailwindcss)
+- Live Site URL: [GitHub page Live URL](https://sonali-negi.github.io/Clipboard-landing-page-using-tailwindcss/)
 
 ### Built with
 
 - Semantic HTML5 markup
 - [tailwindcss](https://tailwindcss.com/) - tailwindcss
-- [vite](https://vitejs.dev/guide/) - React Vite
 
 ## Author
 
