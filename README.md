@@ -9,7 +9,7 @@ This is a solution to the [Clipboard landing page challenge on Frontend Mentor](
 ### Links
 
 - Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Live Site URL: [live page](https://sonali-negi.github.io/Clipboard-landing-page-using-tailwindcss/)
 
 ### Built with
 
